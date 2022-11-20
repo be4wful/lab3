@@ -1,0 +1,16 @@
+tr {
+    width: 100px;
+    height: 30px;
+}
+td {
+    width: 100px;
+    height: 30px;
+}
+body {
+}
+form {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
